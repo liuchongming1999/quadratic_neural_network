@@ -2,4 +2,4 @@
 ### 刘翀鸣
 -------
 
-![](https://latex.codecogs.com/svg.image?f(x)%20=%20%5Csigma(x%5E%7BT%7DAx&plus;w*x&plus;b))
+![](https://latex.codecogs.com/svg.image?f(x)&space;=&space;\sigma(x^{T}Ax))
