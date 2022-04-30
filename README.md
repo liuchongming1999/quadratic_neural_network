@@ -3,3 +3,5 @@
 -------
 
 ![](https://latex.codecogs.com/svg.image?f(x)&space;=&space;\sigma(x^{T}Ax))
+
+![](QNN示意图.png)
